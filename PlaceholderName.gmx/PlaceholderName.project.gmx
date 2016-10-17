@@ -6,27 +6,14 @@
   <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites">
-<<<<<<< HEAD
     <sprite>sprites\spr_bullet</sprite>
-=======
-    <sprite>sprites\spr_telitest</sprite>
->>>>>>> refs/remotes/origin/master
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\obj_player</object>
-<<<<<<< HEAD
     <object>objects\obj_bullet</object>
   </objects>
-  <rooms name="rooms"/>
-=======
-    <object>objects\obj_telitest</object>
-  </objects>
-  <rooms name="rooms">
-    <room>rooms\roo_telitest</room>
-  </rooms>
->>>>>>> refs/remotes/origin/master
   <help>
     <rtf>help.rtf</rtf>
   </help>
