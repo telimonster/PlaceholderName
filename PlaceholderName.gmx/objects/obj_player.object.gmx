@@ -49,7 +49,11 @@
         <arguments>
           <argument>
             <kind>1</kind>
+<<<<<<< HEAD
             <string>///Movement.
+=======
+            <string>///shooting
+>>>>>>> refs/remotes/origin/master
 </string>
           </argument>
         </arguments>
