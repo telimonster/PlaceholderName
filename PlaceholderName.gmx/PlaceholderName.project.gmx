@@ -9,7 +9,7 @@
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
-    <object>objects\object2</object>
+    <object>objects\obj_player</object>
   </objects>
   <help>
     <rtf>help.rtf</rtf>
